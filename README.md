@@ -7,41 +7,28 @@
 "tsk1 IS FOR THE FIRST QUESTION USING 2 FILES"  
 
 
-# Title
+# AUV FINAL TASKS
 
 ## Introduction
 
-This is a sample Markdown file. Markdown is a lightweight markup language that allows you to easily format plain text.
+This is a sample Markdown file.This contains information about the program files.
 
 ## Lists
 
-Markdown supports both ordered and unordered lists:
-
-- Unordered list item 1
-- Unordered list item 2
-- Unordered list item 3
-
-1. Ordered list item 1
-2. Ordered list item 2
-3. Ordered list item 3
+1. lull IS FOR THE SECOND QUESTION IN PYTHON
+2. tsk IS FOR THE FIRST QUESTION USING 4 FILES
+3. tsk1 IS FOR THE FIRST QUESTION USING 2 FILES
+4. tsk2 IS FOR THE SECOND QUESTION IN CPP
 
 ## Links
 
-You can add links in Markdown using the following syntax:
+- [Link to my instagram](https://www.instagram.com/satvikaryan__/)
+- [Link to GitHub](https://www.github.com/satvikaryan)
+- [Link to my Business](https://satvik-milk-milk-products.business.site/)
 
-- [Link to Google](https://www.google.com)
-- [Link to GitHub](https://www.github.com)
-
-## Images
-
-Markdown also supports adding images:
-
-![Image description](https://example.com/image.jpg)
 
 ## Code
 
-You can include code snippets in Markdown by using backticks:
-
 ```python
-def greet(name):
-    print(f"Hello, {name}!")
+def greet(vibhav):
+    print(f"Hello, {vibhav}!")
