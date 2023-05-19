@@ -9,8 +9,9 @@ This is a sample Markdown file.This contains information about the program files
 1. lull IS FOR THE SECOND QUESTION IN PYTHON  
 
    . It takes 2 prompts from the user (username and topic)  
-   . 1 node handle acts like both subscriber and publisher
-   . Message soes not get sent to self
+   . 1 node handle acts like both subscriber and publisher  
+   . Message does not get sent to self
+   
 2. tsk IS FOR THE FIRST QUESTION USING 4 FILES
     
 3. tsk1 IS FOR THE FIRST QUESTION USING 2 FILES
